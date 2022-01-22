@@ -5,6 +5,8 @@ A scaffold for you, to start your new fullstack project with. It uses [JavaWebSt
 - Backend using [JavaWebStack](https://github.com/JavaWebStack)
 - Frontend using [VueJS](https://vuejs.org/)
 - Hot Reload of Frontend while developing
+- No need for special proxy configurations, because the Frontend runs on the same domain
+- A single jar to deploy
 
 # How to use
 - Create your new project with this template
