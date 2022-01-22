@@ -1,5 +1,5 @@
 # JWS-fullstack-starter
-A scaffold for you, to start your new fullstack project with. It uses [JavaWebStack](https://github.com/JavaWebStack) and Vite (Vue 3.X) to create a fullstack application which is comfortable to use while developing and also easy to deploy afterwards.
+A scaffold for you, to start your new fullstack project with. It uses [JavaWebStack](https://github.com/JavaWebStack) and [Vite](https://vitejs.dev/) (Vue 3.X) to create a fullstack application which is comfortable to use while developing and also easy to deploy afterwards.
 
 # How to use
 - Create your new project with this template
