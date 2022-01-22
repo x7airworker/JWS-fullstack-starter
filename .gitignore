@@ -2,5 +2,6 @@
 *.iml
 target
 out
-src/resources/web/**
+src/main/resources/web/**
 .env
+dependency-reduced-pom.xml

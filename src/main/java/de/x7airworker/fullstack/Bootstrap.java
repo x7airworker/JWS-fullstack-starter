@@ -1,7 +1,6 @@
 package de.x7airworker.fullstack;
 
 
-import de.x7airworker.fullstack.controller.Controller;
 import de.x7airworker.fullstack.controller.FrontendHandler;
 import de.x7airworker.fullstack.controller.NotFoundController;
 import org.javawebstack.httpserver.HTTPServer;
